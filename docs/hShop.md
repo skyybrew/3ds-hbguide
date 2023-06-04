@@ -7,9 +7,9 @@
 
 ## Installing hShop
 1. Download the app which can be found above.
-2. Insert your 3DS/2DS's SD Card into your device.
+2. Insert your 3DS/2DS's SD Card into your PC.
 3. Drag the "3hs.cia" file into your "cias" folder on your SD Card.
-4. Eject the SD Card from your device and insert it into your 3DS/2DS
+4. Eject the SD Card from your PC and insert it into your 3DS/2DS
 5. On your 3DS/2DS, launch FBI.
 6. Once FBI has booted up, click "SD"
 7. In SD, click "cias"
