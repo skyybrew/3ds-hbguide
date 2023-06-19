@@ -50,4 +50,5 @@
 If you were able to open the camera applet in the previous step, it indicates that Safe Mode is likely functioning correctly on your console.
 
 ?> If you were able to successfully open the camera applet, you can proceed to the next step, which is [HBL-USM](hbl-usm).
+
 ?> If you were unable to open the camera applet, please proceed to the next step, which is [nimhax](nimhax).
